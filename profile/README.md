@@ -91,7 +91,7 @@ Frontend → API → Daemons → Nodes → Infrastructure
 
 ## ✦ Status
 
-🚧 Active development
+Active development
 
 Expect:
 
@@ -115,8 +115,8 @@ It’s aiming to be:
 
 ## ✦ Links
 
-* 🌐 https://usecascade.io
-* 🧠 https://github.com/your-org
+* https://usecascade.io
+* https://github.com/UseCascadeIo
 
 ---
 
