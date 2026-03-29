@@ -1,12 +1,12 @@
 <!-- HEADER / BANNER -->
 
 <p align="center">
-  <img src="./cascade-discord-banner.svg" alt="Cascade Banner" width="100%" />
+  <img src="./profile/cascade-banner.svg" alt="Cascade Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./cascade-mark-mono-light.svg#gh-dark-mode-only" height="80" />
-  <img src="./cascade-mark-mono-dark.svg#gh-light-mode-only" height="80" />
+  <img src="./profile/cascade-mark-mono-light.svg#gh-dark-mode-only" height="80" />
+  <img src="./profile/cascade-mark-mono-dark.svg#gh-light-mode-only" height="80" />
 </p>
 
 <h1 align="center">Cascade</h1>
