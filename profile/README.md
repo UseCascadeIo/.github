@@ -107,7 +107,7 @@ Cascade isn’t just another panel.
 
 It’s aiming to be:
 
-* A **self-hosted cloud platform**
+* A **sovereign cloud platform**
 * A **developer-first infrastructure layer**
 * A **fully brandable hosting experience**
 
