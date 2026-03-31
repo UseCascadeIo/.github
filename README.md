@@ -1,8 +1,8 @@
 <!-- HEADER / BANNER -->
 
 <p align="center">
-  <img src="./profile/cascade-mark-mono-light.svg#gh-dark-mode-only" height="80" />
-  <img src="./profile/cascade-mark-mono-dark.svg#gh-light-mode-only" height="80" />
+  <img src="https://raw.githubusercontent.com/UseCascadeIo/.github/02b04681d53eceae90b486783f96de905f7950b6/profile/cascade-mark-mono-light.svg#gh-dark-mode-only" height="80" />
+  <img src="https://raw.githubusercontent.com/UseCascadeIo/.github/02b04681d53eceae90b486783f96de905f7950b6/profile/cascade-mark-mono-dark.svg#gh-light-mode-only" height="80" />
 </p>
 
 <h1 align="center">Cascade</h1>
